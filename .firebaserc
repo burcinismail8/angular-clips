@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-clips-9fb24": {
+      "hosting": {
+        "clips": [
+          "angular-clips-9fb24"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-clips-9fb24"
+  }
+}
